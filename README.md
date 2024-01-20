@@ -128,12 +128,20 @@ Yes, you have extensive customization options for the ripple effect, including p
 
 You can control the duration of the ripple animation by setting the rippleDuration and animationDuration properties in the RippleData object. Adjusting these 
 
-### 6. Can I contribute to the development of this package?
+### 6. Is there an example application available to see the package in action?
+
+Yes, you can find a detailed example application in the example directory of the package. This example demonstrates various features and customizations of the Customizable Ripple Animation package.
+
+### 7. Can I contribute to the development of this package?
 
 Absolutely! Contributions are welcome. If you have ideas for improvements, new features, or bug fixes, feel free to submit pull requests or open issues on the package's [GitHub repository](https://github.com/ahadjonovss/customizable_ripple_animation.git).
 
-### 7. How can I contact the author for questions or support?
+### 8. How can I contact the author for questions or support?
 
 You can reach out to the author, Samandar Ahadjonov, on their Linktree profile: [LinkTree](https://linktr.ee/ahadjonovss?fbclid=PAAaYJKH3gEwbffi3QyH_kFINfEBhZZEAERqz-NPizYR3qnZnwjEzEVuWthxw_aem_AVcdkYfpLEGeFKvfNPpq9JCZ3wfUe-yKutCVXwHbPM3zm486macDAME7oGkF8Qm76Jc). Feel free to contact them for any package-related questions or support.
 
 Feel free to expand or modify this FAQ section to address specific questions or concerns your users might have about your Customizable Ripple Animation package.
+## License
+
+[UMD GROUP](https://t.me/umdgroupuz)
+
