@@ -3,6 +3,8 @@
 
 A Flutter package for creating customizable ripple animations, developed by Samandar Ahadjonov. This package allows easy integration of ripple effects into your Flutter applications with a high degree of customization.
 
+https://github.com/ahadjonovss/customizable_ripple_animation/assets/98304052/a0e30880-ceae-45f0-9660-87504b7b9b77
+
 ## Features
 
 - Customizable ripple color, size, and animation duration.
