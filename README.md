@@ -1,8 +1,6 @@
 
 ## Result
-
-![Gif](https://github.com/ahadjonovss/customizable_ripple_animation/assets/98304052/a0e30880-ceae-45f0-9660-87504b7b9b77)
-
+<img width="647" alt="Screenshot 2024-01-20 at 19 44 33" src="https://github.com/ahadjonovss/customizable_ripple_animation/assets/98304052/8799c4bc-ddb4-41af-b6fe-f5afa5e53e4d">
 
 # Customizable Ripple Animation
 
